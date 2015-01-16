@@ -1,2 +1,4 @@
 INTRODUCTION
 Begining of the paper.
+
+METHODS
